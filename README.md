@@ -26,8 +26,8 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
-REG NO : 212224220043
-NAME   : Joel Masilamani A
+REG NO : 212224220043 
+NAME   : JOEL MASILAMANI A
 
 
 import pandas as pd
